@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-left{
+    color: blue;
+}
+
+.logo{
+    font-size: large;
+    color: white;
+}
+.red{
+    color: red;
+}
